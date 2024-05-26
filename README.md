@@ -41,7 +41,7 @@ all about html coding
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  padding: 20px;
+  padding: 30px;
 }
 
 nav ul {
@@ -65,7 +65,7 @@ nav ul li a:hover {
 }
 
 section {
-  margin: 20px 0;
+  margin: 30px 0;
 }
 
 h2 {
